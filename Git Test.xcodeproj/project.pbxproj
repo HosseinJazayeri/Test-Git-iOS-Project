@@ -35,8 +35,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0C7A8083196935D900749E42 /* CCTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCTest.h; sourceTree = "<group>"; };
-		0C7A8084196935D900749E42 /* CCTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCTest.m; sourceTree = "<group>"; };
+		0C7A8083196935D900749E42 /* CCTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CCTest.h; path = ../CCTest.h; sourceTree = "<group>"; };
+		0C7A8084196935D900749E42 /* CCTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CCTest.m; path = ../CCTest.m; sourceTree = "<group>"; };
 		0CE5A72A1964313B00B13DF6 /* Git Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Git Test.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0CE5A72D1964313B00B13DF6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		0CE5A72F1964313B00B13DF6 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -85,8 +85,6 @@
 		0CE5A7211964313B00B13DF6 = {
 			isa = PBXGroup;
 			children = (
-				0C7A8083196935D900749E42 /* CCTest.h */,
-				0C7A8084196935D900749E42 /* CCTest.m */,
 				0CE5A7331964313B00B13DF6 /* Git Test */,
 				0CE5A7521964313B00B13DF6 /* Git TestTests */,
 				0CE5A72C1964313B00B13DF6 /* Frameworks */,
@@ -122,6 +120,8 @@
 				0CE5A73F1964313B00B13DF6 /* Main.storyboard */,
 				0CE5A7421964313B00B13DF6 /* CCViewController.h */,
 				0CE5A7431964313B00B13DF6 /* CCViewController.m */,
+				0C7A8083196935D900749E42 /* CCTest.h */,
+				0C7A8084196935D900749E42 /* CCTest.m */,
 				0CE5A7451964313B00B13DF6 /* Images.xcassets */,
 				0CE5A7341964313B00B13DF6 /* Supporting Files */,
 			);
